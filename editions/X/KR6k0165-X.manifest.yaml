@@ -1,0 +1,288 @@
+canonical_identifier: bkk:krp/KR6k0165/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0165/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律開宗記
+  identifiers:
+    krp: KR6k0165
+    cbeta: X42n0735
+    cbeta_old_id: X42n0735
+    authorityid: CA0002795
+    json_key: X0735
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X42/X42n0735.xml
+    old_id: X42n0735
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0165_000-X.yaml, hash: 'sha256:5d62334dc4493c6925c2b7827fad80a5d1927bb6f869831d85216af52cc1ee13'}
+  - {seq: 2, filename: KR6k0165_002-X.yaml, hash: 'sha256:c7b134bd820656052e137c0e09fee6ae6f80512f9c4af6aee7e9e60a92cd66b0'}
+  - {seq: 3, filename: KR6k0165_003-X.yaml, hash: 'sha256:113bd37ce8a5eb0dde153cfd7f3391293113cbca744395747b1147c5061df011'}
+  - {seq: 4, filename: KR6k0165_004-X.yaml, hash: 'sha256:60fbe745d94d2a174fc92bc86ff438f05ecefc47cfc842c266b5c562d6fde503'}
+  - {seq: 5, filename: KR6k0165_005-X.yaml, hash: 'sha256:39f5075999027852f15ce977f19b0fbd4292bd5090e421622aceb5b7eee74e01'}
+  - {seq: 6, filename: KR6k0165_006-X.yaml, hash: 'sha256:4b534dc8402acde2eb747a8dd6427943e3187ed2c67b4ba56904211f81b61c74'}
+  - {seq: 7, filename: KR6k0165_007-X.yaml, hash: 'sha256:e1997c6860d355a2a723c4ebfe7b7c6769acfc5a277c7f34f67cfc02ed2dbb11'}
+  - {seq: 8, filename: KR6k0165_008-X.yaml, hash: 'sha256:16c97a7d8ceca76fae6fa64df676d06ba6e0f3e7b14d95debc549e65f835cbd2'}
+  - {seq: 9, filename: KR6k0165_009-X.yaml, hash: 'sha256:35032c9e62f48903d039b75c99e18655b391bf4dfb84e573ac5a3e6a46b4de59'}
+  - {seq: 10, filename: KR6k0165_010-X.yaml, hash: 'sha256:7707327e624f72686fac1585e41b9d39eb5ecb34de51c26a10df5abd53e26e75'}
+  - {seq: 11, filename: KR6k0165_011-X.yaml, hash: 'sha256:dba9d53083d80271fd6daae855d3ab9ca21182e4f8e9c7e3bc03162c123b855a'}
+  - {seq: 12, filename: KR6k0165_012-X.yaml, hash: 'sha256:7e29f7fe4defc6f4a8b4cfae94b0ad4af0cfd4e27c54cb8e9bd132d25e8ba7b6'}
+  - {seq: 13, filename: KR6k0165_013-X.yaml, hash: 'sha256:750e526516fd4e63498abedd2efb9294093b64dd072d137f0d601937fe27d507'}
+  - {seq: 14, filename: KR6k0165_014-X.yaml, hash: 'sha256:3ae5f5d404ca012ecc9a636f7c76bf3abed96faddb07b7be0497d1e50b381c64'}
+  - {seq: 15, filename: KR6k0165_015-X.yaml, hash: 'sha256:3ee020f6af7bd84725190f3877044460011879fa29b6feb63458ce4556a36470'}
+  - {seq: 16, filename: KR6k0165_016-X.yaml, hash: 'sha256:c8c3d61a741e0f8ef2a08b9701fb97f23c9f5097a321ae20e23eb1cfdff79582'}
+  - {seq: 17, filename: KR6k0165_017-X.yaml, hash: 'sha256:db3faa4e55f674268ccbda20cda068dcb7c3b5fff7f08b744c485cefadceaf68'}
+  - {seq: 18, filename: KR6k0165_018-X.yaml, hash: 'sha256:14991c05142edd2139a66022da827aba538ebafaeed5333939c846b4fab6cb81'}
+  - {seq: 19, filename: KR6k0165_019-X.yaml, hash: 'sha256:4583e49350899a45b5aa2ff8eff351896f873edb8e5847ee444b9cd012a7d3a2'}
+  - {seq: 20, filename: KR6k0165_020-X.yaml, hash: 'sha256:65c7370b45016d7fcfaa556e64242e2078f18f909d32d61b511eab0c39ce6ede'}
+  - {seq: 21, filename: KR6k0165_021-X.yaml, hash: 'sha256:301f74364c5bbbe47264117eb01e92deb6e94110ef6e0a3eb1c8655ac39c8ecc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0165_000-X.markers.yaml, hash: 'sha256:657105efd79d9fc007b8ea484e556966772a2fe88d16c7c19d8baca48b8c209e'}
+  - {seq: 2, role: markers, filename: assets/KR6k0165_002-X.markers.yaml, hash: 'sha256:141c940403da613ea857b9adc183f50ead7e9689437b4c85da89dcf9515d9381'}
+  - {seq: 3, role: markers, filename: assets/KR6k0165_003-X.markers.yaml, hash: 'sha256:a8ae1637b70a63b270a18d216d5f0bab3cd23fc51dc5440dcd46c52a24b035f3'}
+  - {seq: 4, role: markers, filename: assets/KR6k0165_004-X.markers.yaml, hash: 'sha256:eac4efcfe2ae561a540912199c692bc8f7fa4261dfbe3ced8324557e8d0ec6f6'}
+  - {seq: 5, role: markers, filename: assets/KR6k0165_005-X.markers.yaml, hash: 'sha256:5dc5091a7d06ed096317c1be7f28989b0bec849c2ed15bc5d55babf5ab0eea49'}
+  - {seq: 6, role: markers, filename: assets/KR6k0165_006-X.markers.yaml, hash: 'sha256:ef47ecc6e54c434513500c9649379acbae5ec409103c63e3fd8a01686e8469f7'}
+  - {seq: 7, role: markers, filename: assets/KR6k0165_007-X.markers.yaml, hash: 'sha256:301caa72780c1de9c769c9bd6be2f85eb8d11e1e599bbdad525552b018c45ddc'}
+  - {seq: 8, role: markers, filename: assets/KR6k0165_008-X.markers.yaml, hash: 'sha256:5b4b1dd28f160e8c6433797f7f55f596e38e9fa91164e9bdf0957a2d4b8e51af'}
+  - {seq: 9, role: markers, filename: assets/KR6k0165_009-X.markers.yaml, hash: 'sha256:4ba6491fb2763138c0b0d110a9343b7ff76c7196caf29bedba026adfad3f7174'}
+  - {seq: 10, role: markers, filename: assets/KR6k0165_010-X.markers.yaml, hash: 'sha256:bc608f31c8dafa21dbbf09f70f4cbdfdc8bc5a455cd8ad2b393fab59d18b0095'}
+  - {seq: 11, role: markers, filename: assets/KR6k0165_011-X.markers.yaml, hash: 'sha256:d1328ef1d7ac77f763bb6c00403afee66d63fd2687fc6919ae930f124161a533'}
+  - {seq: 12, role: markers, filename: assets/KR6k0165_012-X.markers.yaml, hash: 'sha256:93d7b001ecbf5213e261080c6421623281b775b663bc4eaf7e5f90ceb742dd78'}
+  - {seq: 13, role: markers, filename: assets/KR6k0165_013-X.markers.yaml, hash: 'sha256:ec172d8ddc287cadbd433e8e95fb5913f38c57be06b438b2cdab44214df8f170'}
+  - {seq: 14, role: markers, filename: assets/KR6k0165_014-X.markers.yaml, hash: 'sha256:dc8d5968e4087784d3c11630b8e63bf627be5f77ba7f4a2cf9ba1442a525652f'}
+  - {seq: 15, role: markers, filename: assets/KR6k0165_015-X.markers.yaml, hash: 'sha256:adb0cd9f3498383fc7976fbabad9f9f5a941c42e79dcb262bec27aa820a3606e'}
+  - {seq: 16, role: markers, filename: assets/KR6k0165_016-X.markers.yaml, hash: 'sha256:2970cde109a798b121cdb39f8f14b7db8847bbcf7fab9d4ee488b7ed9bcb2499'}
+  - {seq: 17, role: markers, filename: assets/KR6k0165_017-X.markers.yaml, hash: 'sha256:f3b63c5565d78ca28290ad52c6939b75d05257bc11636f2cd314b8110717024e'}
+  - {seq: 18, role: markers, filename: assets/KR6k0165_018-X.markers.yaml, hash: 'sha256:808bdb23ec3d80523e52788e280d63596cac9255a7dfe8b2829ae16a18dbf935'}
+  - {seq: 19, role: markers, filename: assets/KR6k0165_019-X.markers.yaml, hash: 'sha256:2eea7e57f8e17acb37564cdb0f35504116972662c5febea2a3427dca4b70d733'}
+  - {seq: 20, role: markers, filename: assets/KR6k0165_020-X.markers.yaml, hash: 'sha256:fe89d1af0d4c6e7a456679447e7216ec18b624a6b8b8c186be4a9eaebd22552a'}
+  - {seq: 21, role: markers, filename: assets/KR6k0165_021-X.markers.yaml, hash: 'sha256:90c538ca02bc50b21384c636f12255ae202a2c00fbd8e8f3b709dbefcae02b66'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0165_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0165_X_000-mulu-2
+    span:
+    - front
+    - 368
+    - 368
+  label: 四分律開宗記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0165_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 18579
+  label: '四分律開宗記卷第一
+
+    從初發題至釋序分文竟，合有三萬七千二百言'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0165_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 18661
+  label: 四分律開宗記卷第一末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0165_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 17578
+  label: 四分律開宗記卷第二從正宗首至釋初犯竟，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0165_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 19786
+  label: 四分律開宗記卷第二末
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0165_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 19366
+  label: 四分律開宗記卷第三從十三初至三十竟，合有三萬六千八百言
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0165_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 18000
+  label: 四分律開宗記卷第三末
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0165_X_4a-juan-start
+    span:
+    - body
+    - 0
+    - 17178
+  label: 四分律開宗記卷第四從九十初至七滅竟，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0165_X_4b-juan-start
+    span:
+    - body
+    - 0
+    - 19874
+  label: 四分律開宗記卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0165_X_5a-juan-start
+    span:
+    - body
+    - 0
+    - 19426
+  label: 四分律開宗記卷第五從尼律初至尼律竟，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0165_X_5b-juan-start
+    span:
+    - body
+    - 0
+    - 18159
+  label: 四分律開宗記卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0165_X_6a-juan-start
+    span:
+    - body
+    - 0
+    - 16118
+  label: 四分律開宗記卷第六從犍度初至釋三歸文竟，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0165_X_6b-juan-start
+    span:
+    - body
+    - 0
+    - 21444
+  label: 四分律開宗記卷第六末
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0165_X_7a-juan-start
+    span:
+    - body
+    - 0
+    - 19899
+  label: 四分律開宗記卷第七從羯磨受戒至安居揵度竟，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0165_X_7b-juan-start
+    span:
+    - body
+    - 0
+    - 17614
+  label: 四分律開宗記卷第七末
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0165_X_8a-juan-start
+    span:
+    - body
+    - 0
+    - 18001
+  label: 四分律開宗記卷第八從自恣萬度至瞻波竟，合有三犍，七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0165_X_8b-juan-start
+    span:
+    - body
+    - 0
+    - 19860
+  label: 四分律開宗記卷第八末
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6k0165_X_9a-juan-start
+    span:
+    - body
+    - 0
+    - 18751
+  label: 四分律開宗記卷第九從呵責揵度至滅諍了，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6k0165_X_9b-juan-start
+    span:
+    - body
+    - 0
+    - 18865
+  label: 四分律開宗記卷第九末
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6k0165_X_10a-juan-start
+    span:
+    - body
+    - 0
+    - 17619
+  label: 四分律開宗記卷第十從尼犍度至律藏竟，合有三萬七千二百言
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6k0165_X_10b-juan-start
+    span:
+    - body
+    - 0
+    - 19816
+  label: 四分律開宗記卷第十末
+  type: juan
+  level: 1
+hash: sha256:1f25d078dc50ab506a273d5821ad791244e9146647cc08603673fc55810ddb23
