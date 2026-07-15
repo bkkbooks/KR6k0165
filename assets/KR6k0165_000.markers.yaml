@@ -153,6 +153,7 @@ markers:
   - {type: xml-element, offset: 166, content: '', id: itemX42p0333b0301, name: item, role: open, attrs: {'xml:id': itemX42p0333b0301}}
   - {type: variant, offset: 174, length: 1, content: 已, 卍續: 巳}
   - {type: variant, offset: 175, length: 1, content: 已, 卍續: 巳}
+  - {type: substitution, offset: 177, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: variant, offset: 180, length: 1, content: 已, 卍續: 巳}
   - {type: xml-element, offset: 183, content: '', id: itemX42p0333b0301_end, name: item, role: close, attrs: {'xml:id': itemX42p0333b0301}}
   - {type: xml-element, offset: 183, content: '', id: KR6k0165_X_000-bkkxmlele23, name: list, role: close, attrs: {rend: no-marker}}
@@ -178,6 +179,7 @@ markers:
   - {type: line-break, offset: 207, content: '', id: KR6k0165_X_000-0667b10, ed: R066, 'n': 0667b10}
   - {type: xml-element, offset: 207, content: '', id: KR6k0165_X_000-bkkxmlele26, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 207, content: '', id: itemX42p0333b0701, name: item, role: open, attrs: {'xml:id': itemX42p0333b0701}}
+  - {type: substitution, offset: 213, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: xml-element, offset: 217, content: '', id: itemX42p0333b0701_end, name: item, role: close, attrs: {'xml:id': itemX42p0333b0701}}
   - {type: xml-element, offset: 217, content: '', id: KR6k0165_X_000-bkkxmlele27, name: list, role: close, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 217, content: '', id: itemX42p0333b0601_end, name: item, role: close, attrs: {'xml:id': itemX42p0333b0601}}
@@ -1697,4 +1699,4 @@ markers:
   - {type: variant, offset: 20371, length: 1, content: 已, 卍續: 巳}
   body: []
   back: []
-hash: sha256:167412153039f0ddfc613535b3eb3f764427e4b3d060c4da21309f63b7fb3357
+hash: sha256:bc96a890a718e9d4e90e579be334c8f522a51857e9183b5f46d67e436d857c38
